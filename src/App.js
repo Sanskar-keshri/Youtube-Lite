@@ -21,6 +21,7 @@ const App = () => {
                         />
                         <Route path="/video/:id" element={<VideoDetails />} />
                     </Routes>
+                    <Feed />
                 </div>
             </BrowserRouter>
         </AppContext>
