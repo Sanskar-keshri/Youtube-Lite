@@ -21,3 +21,4 @@ Developed a responsive single-page application that replicates the core features
 - **Front-end**: HTML, CSS, JavaScript, ReactJS, Tailwind CSS
 - **API Integration**: RapidAPI
 
+<img width="155" alt="Screenshot 2023-07-26 001652" src="https://github.com/Sanskar-keshri/Youtube-Lite/assets/82763697/e5f3ee35-a5f6-4a2c-84a0-a13f7430d47b">
