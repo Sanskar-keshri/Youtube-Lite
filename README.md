@@ -21,4 +21,21 @@ Developed a responsive single-page application that replicates the core features
 - **Front-end**: HTML, CSS, JavaScript, ReactJS, Tailwind CSS
 - **API Integration**: RapidAPI
 
-<img width="155" alt="Screenshot 2023-07-26 001652" src="https://github.com/Sanskar-keshri/Youtube-Lite/assets/82763697/e5f3ee35-a5f6-4a2c-84a0-a13f7430d47b">
+**Screenshots:**
+<img width="943" alt="Screenshot 2023-09-03 154913" src="https://github.com/Sanskar-keshri/Youtube-Lite/assets/82763697/0b756c66-00f7-4641-8201-0032025b40fa">
+<img width="946" alt="Screenshot 2023-09-03 154939" src="https://github.com/Sanskar-keshri/Youtube-Lite/assets/82763697/76650417-0651-426d-8c40-c06e2a64b7e0">
+<img width="447" alt="Screenshot 2023-09-03 155003" src="https://github.com/Sanskar-keshri/Youtube-Lite/assets/82763697/c90f0511-6a0c-424b-9db4-57f6163cb494">
+<img width="151" alt="Screenshot 2023-09-03 155044" src="https://github.com/Sanskar-keshri/Youtube-Lite/assets/82763697/0eb7e857-e5ac-4f74-aff8-6da1f114ef2d">
+<img width="156" alt="Screenshot 2023-09-03 155117" src="https://github.com/Sanskar-keshri/Youtube-Lite/assets/82763697/a692f3d6-267f-4440-89bb-964e2d6c64de">
+<img width="152" alt="Screenshot 2023-09-03 155153" src="https://github.com/Sanskar-keshri/Youtube-Lite/assets/82763697/deca0918-e28a-440b-ac0f-e7607f5d153d">
+
+
+
+
+
+
+
+
+
+
+
