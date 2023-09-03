@@ -21,6 +21,8 @@ Developed a responsive single-page application that replicates the core features
 - **Front-end**: HTML, CSS, JavaScript, ReactJS, Tailwind CSS
 - **API Integration**: RapidAPI
 
+- **Netlify link:**https://youtubeliteclone.netlify.app/
+
 **Screenshots:**
 <img width="943" alt="Screenshot 2023-09-03 154913" src="https://github.com/Sanskar-keshri/Youtube-Lite/assets/82763697/0b756c66-00f7-4641-8201-0032025b40fa">
 <img width="946" alt="Screenshot 2023-09-03 154939" src="https://github.com/Sanskar-keshri/Youtube-Lite/assets/82763697/76650417-0651-426d-8c40-c06e2a64b7e0">
